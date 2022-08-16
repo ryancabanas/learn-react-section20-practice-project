@@ -1,8 +1,8 @@
 {
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#000",
-    "titleBar.activeForeground": "#f2ff00",
-    "titleBar.border": "#f2ff00"
+    "titleBar.activeBackground": "#9427dd",
+    "titleBar.activeForeground": "#fff",
+    "titleBar.border": "#fff"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.singleQuote": true,
